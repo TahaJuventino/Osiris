@@ -1,5 +1,5 @@
-content = """# Osiris
-**Red Team Operations and Simulated Attacks**
+# Osiris
+### Red Team Operations and Simulated Attacks**
 
 ## Team Members
 - Aymman Mahmoud Taha
